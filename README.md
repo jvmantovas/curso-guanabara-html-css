@@ -8,7 +8,7 @@ Este repositório contém os exercícios e atividades desenvolvidas durante o Cu
 
 ### 📅 Conteúdo programático
 <details>
-  <summary>Módulo I - Primeiros passos HTML + CSS </summary>
+  <summary>Módulo I - Primeiros passos HTML + CSS ✔️</summary>
   
   * Conceitos básicos
   * Preparação do ambiente
