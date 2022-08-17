@@ -20,7 +20,7 @@ Este repositório contém os exercícios e atividades desenvolvidas durante o Cu
   * Estilos
 </details>
 <details>
-  <summary>Módulo II - Deixando as coisas mais bonitas</summary>
+  <summary>Módulo II - Deixando as coisas mais bonitas ✔️</summary>
   
   * Fundamentos do design
   * Psicologia das cores
@@ -54,7 +54,7 @@ Este repositório contém os exercícios e atividades desenvolvidas durante o Cu
 </details>
 <hr>
 
-### 🛠️ Tecnologias e ferramentas ✔️
+### 🛠️ Tecnologias e ferramentas 
 <p align="left">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/PeMGpL3.png">
